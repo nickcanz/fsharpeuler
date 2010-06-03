@@ -1,0 +1,11 @@
+Part of the process of learning any language is using it. 
+I decided to learn F# and the Project Euler problems really seemed to 
+fit that.
+
+Developed on an Ubuntu box using Mono.
+
+In each problem folder, run the file without any letters after the name,
+so 'pe3.fs' for problem three. 'pe3X.fs' are things that I tried out
+beforehand, so you might get an idea for how I think. But probably not.
+
+Feel free to contact me with any questions at ac3522 [at] gmail.
